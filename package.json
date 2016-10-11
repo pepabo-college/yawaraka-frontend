@@ -1,0 +1,23 @@
+{
+  "name": "yawaraka-frontend",
+  "version": "0.9.9",
+  "description": "ペパカレ（一期）向けフロントエンド座学教材詰め合わせ",
+  "main": "index.js",
+  "scripts": {
+    "question": "count-to-6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pepabo-college/yawaraka-frontend.git"
+  },
+  "keywords": [],
+  "author": "Uchio KONDO <udzura@udzura.jp> (http://udzura.jp/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pepabo-college/yawaraka-frontend/issues"
+  },
+  "homepage": "https://github.com/pepabo-college/yawaraka-frontend#readme",
+  "dependencies": {
+    "count-to-6": "^0.8.0"
+  }
+}
