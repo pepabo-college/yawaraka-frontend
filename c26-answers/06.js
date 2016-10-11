@@ -1,6 +1,6 @@
 var numbers = process.argv.slice(2);
-var max = Math.max(...numbers);
+var min = Math.min(...numbers);
 // The same with an old friend
-// var max = Math.max.apply(this, numbers);
+// var min = Math.min.apply(this, numbers);
 
-console.log(`The minimum of [${numbers}] is ${max}`);
+console.log(`The minimum of [${numbers}] is ${min}`);
