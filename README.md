@@ -47,4 +47,15 @@ npm install -g count-to-6
 count-to-6
 ```
 
+* 後でudzuraさんの解答例もうｐしますが、公式にも回答は表示されます。だいたい僕の回答と違うので見比べてみてください...
+
+### JavaScript自体についての確認
+
+* [MDNを読むんだ。](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+* 変にGoogleしない方がいいかもしれません。
+
+## その後
+
+* 「教科書」のアプリを、 p. 35 `ToDoの更新機能を追加` の「直前」まで実装してください。
+* 第3章のアプリに追加PRする形で、PRまで作成するところがゴール。
 
