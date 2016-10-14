@@ -1,4 +1,3 @@
-var name = 'ES6';
-var ans = `Hello, ${name}!
-Your name lowercased is "${name.toLowerCase()}".`;
+var ans = `Hello, ${process.argv[2]}!
+Your name lowercased is "${process.argv[2].toLowerCase()}".`;
 console.log(ans);
